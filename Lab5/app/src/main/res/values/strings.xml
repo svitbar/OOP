@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="dot_title">Крапка</string>
+    <string name="line_title">Лінія</string>
+    <string name="ellipse_title">Еліпс</string>
+    <string name="rect_title">Прямокутник</string>
+    <string name="brush_title">Пензлик</string>
+    <string name="cube_title">Куб</string>
+    <string name="lineOO_title">ЛініяОО</string>
+    <string name="table_title">Таблиця</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="x1">x1</string>
+    <string name="y1">y1</string>
+    <string name="x2">x2</string>
+    <string name="y2">y2</string>
+    <string name="shape_name">Назва</string>
+</resources>

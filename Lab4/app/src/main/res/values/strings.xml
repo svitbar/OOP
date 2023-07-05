@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="dot_title">Крапка</string>
+    <string name="line_title">Лінія</string>
+    <string name="ellipse_title">Еліпс</string>
+    <string name="rect_title">Прямокутник</string>
+    <string name="brush_title">Пензлик</string>
+    <string name="cube_title">Куб</string>
+    <string name="lineOO_title">ЛініяОО</string>
+</resources>
